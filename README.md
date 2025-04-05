@@ -1,4 +1,4 @@
-# Next + Fastify Project
+# Inscription
 
 This project is an API built with ``Fastify`` to manage registrations for an event, allowing candidates to sign up and refer others through a personalized link.</br>
 Referrals are tracked and stored in ``Redis``, enabling the identification of those who brought in the most sign-ups.</br> 
