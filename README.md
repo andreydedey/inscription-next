@@ -6,6 +6,8 @@ Candidate information is persisted in a ``PostgreSQL`` database, using ``Drizzle
 The entire API structure is documented with ``Swagger``, making it easy to understand and use the available routes.</br>
 For the Front-End i used the ``Next`` Framework and ``Orval`` to generate the hooks that consume the API.
 
+🔗 [``API Repository``](https://github.com/andreydedey/connect-fastify)
+
 ## 🔧 Main Technologies
 
 - **Fastify** – API framework  
